@@ -1,2 +1,0 @@
-tong cua a+b=13
-tich cua a*b=42
